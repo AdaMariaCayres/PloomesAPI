@@ -1,5 +1,6 @@
 # PloomesAPI
 Endpoints:
+
     -Directors: /api/Director
         -GET:/{id}; /all
         -PUT:/{id}
