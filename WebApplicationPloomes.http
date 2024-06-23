@@ -1,0 +1,6 @@
+@WebApplicationPloomes_HostAddress = http://localhost:5236
+
+GET {{WebApplicationPloomes_HostAddress}}/
+Accept: application/json
+
+###
